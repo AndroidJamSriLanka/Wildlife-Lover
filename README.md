@@ -20,5 +20,4 @@ Finalized APP IDEA-
 		
 
 
-Current Situation - I have done with UploadActivity and ViewActivity GUIs.
-		
+Current Situation - I have done with UploadActivity and ViewActivity GUIs	
