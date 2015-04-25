@@ -17,11 +17,7 @@ Finalized APP IDEA-
 		
 		Database         - Data base will be XML because this is used on offline and at that time photo details and location is saved in XML and when user connet to interet 
 							those data will be saved to cloud.
-		
-<<<<<<< HEAD
+
 
 
 Current Situation - I have done with UploadActivity and ViewActivity GUIs	
-=======
-		
->>>>>>> fa30528550f47e563e7b6d1f4c9ab8fc30b37a6a
